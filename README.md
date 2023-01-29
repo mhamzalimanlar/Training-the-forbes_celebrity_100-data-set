@@ -1,3 +1,2 @@
 # Training-the-forbes_celebrity_100-data-set
-Training the forbes_celebrity_100  data set with the linear regression algorithm, visualizing and interpretation of with linear regression metrics (March-April 2020)
-forbes_celebrity_100 dataset inin linear regression algoritmasıyla eğitilmesi , linear regression metrikleri ile yorumlanması ve görselleştirilmesi(Mart-Nisan2020) 
+I completed my first project in big data and statistics using Python. I utilized machine learning, statistical, and data visualization libraries and applied the linear regression algorithm for data training.
